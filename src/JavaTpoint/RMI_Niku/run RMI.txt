@@ -1,0 +1,16 @@
+Hi,
+
+To run RMI follow these steps:
+
+1st terminal: cd C:\Java\JAVA CODE\RMI
+1st terminal: javac *.java
+
+start rmiregistry : Here one more cmd promt is open..
+not do anything there..jst only minimize it and 
+dont close it until your work finish
+
+write next cmd in 1st terminal: java LoadAddServer
+
+
+Add new cmd window 2nd terminal:
+java AddClient 10 20
