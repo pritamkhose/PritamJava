@@ -1,4 +1,4 @@
-package MultithreadingTP;
+package JavaTpoint.MultithreadingTP;
 
 //produces same result every time you run this program:
 class PrintDemo2 {

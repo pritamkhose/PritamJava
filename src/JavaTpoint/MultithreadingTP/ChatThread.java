@@ -1,4 +1,4 @@
-package MultithreadingTP;
+package JavaTpoint.MultithreadingTP;
 
 class Chat {
     boolean flag = false;

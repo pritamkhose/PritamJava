@@ -1,4 +1,4 @@
-package Multithreading;
+package JavaTpoint.Multithreading;
 
 public class TestDaemonThread2 extends Thread{  
 	 public void run(){  

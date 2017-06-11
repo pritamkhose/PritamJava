@@ -1,4 +1,4 @@
-package Multithreading;
+package JavaTpoint.Multithreading;
 
 class MyThread extends Thread{  
     public void run(){  

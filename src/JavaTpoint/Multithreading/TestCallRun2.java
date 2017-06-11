@@ -1,4 +1,4 @@
-package Multithreading;
+package JavaTpoint.Multithreading;
 
 public class TestCallRun2 {  //extends Thread
 	 public void run(){  

@@ -1,6 +1,6 @@
 //Program of performing two tasks by two threads implements Runnable interface
 
-package Multithreading;
+package JavaTpoint.Multithreading;
 
 class TestMultitasking5{  
  public static void main(String args[]){  

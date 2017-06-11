@@ -1,6 +1,6 @@
 //Program of performing single task by multiple threads
 
-package Multithreading;
+package JavaTpoint.Multithreading;
 
 class TestMultitasking2 implements Runnable{  
 public void run(){  

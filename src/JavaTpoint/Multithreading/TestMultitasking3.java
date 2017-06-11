@@ -1,6 +1,6 @@
 //Program of performing two tasks by two threads
 
-package Multithreading;
+package JavaTpoint.Multithreading;
 
 	class Simple1 extends Thread{  
 	 public void run(){  

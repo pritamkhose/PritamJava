@@ -1,4 +1,4 @@
-package Multithreading;
+package JavaTpoint.Multithreading;
 
 public class ThreadGroupDemo implements Runnable{  
     public void run() {  

@@ -1,6 +1,6 @@
 //Program of performing two tasks by two threads extends Thread class
 
-package Multithreading;
+package JavaTpoint.Multithreading;
 
 	class TestMultitasking4{  
 	 public static void main(String args[]){  

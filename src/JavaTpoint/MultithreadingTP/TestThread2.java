@@ -1,4 +1,4 @@
-package MultithreadingTP;
+package JavaTpoint.MultithreadingTP;
 
 class ThreadDemo extends Thread {
 	   private Thread t;

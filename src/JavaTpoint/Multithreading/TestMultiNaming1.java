@@ -1,4 +1,4 @@
-package Multithreading;
+package JavaTpoint.Multithreading;
 
 public class TestMultiNaming1 extends Thread{  
 	  public void run(){  
